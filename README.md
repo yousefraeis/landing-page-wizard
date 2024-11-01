@@ -1,15 +1,3 @@
-<div align="center">
-  <br />
-    <a href="#">
-      <img src="./src/assets/preview-image.webp" alt="Project Banner">
-    </a>
-  <br />
-</div>
-
-Sure! Here’s the updated README with a thank you note for the Frontend Tribe YouTube channel:
-
----
-
 # Landing Page Wizard
 
 ## Overview
