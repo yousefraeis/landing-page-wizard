@@ -6,7 +6,7 @@ Welcome to the **Landing Page Wizard** project! 🎉 This application is designe
 
 ## Live Demo
 
-Check out the live demo of the project here: [Landing Page Wizard Demo 🌐](https://landing-page-wizard.vercel.app)
+Check out the live demo of the project here: [🌐 Landing Page Wizard Demo](https://landing-page-wizard.vercel.app)
 
 ## Features
 
